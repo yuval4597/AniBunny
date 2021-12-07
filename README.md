@@ -9,6 +9,7 @@ Gameplay as well as technical details can be found below.
 
 *Ani Bunny* is a 3D platformer in which the player controls a pink stuffed bunny which came to life in order to collect and plant flowers, and beautify the world she calls home.
 There are some flowers scattered in Ani Bunny's base world, but in order to find something truly special, she must travel to the platformer world and collect the rarest flowers of all.
+
 ![Gold Flower Collectible](../visuals/Gifs/GoldFlowerCollectible.gif?raw=true)
 
 ## Base Level
